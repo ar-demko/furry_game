@@ -1,0 +1,25 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar-demko/furry_game"
+  },
+  "keywords": [
+    "furry"
+  ],
+  "author": "Roza Demko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ar-demko/furry_game/issues"
+  },
+  "homepage": "https://github.com/ar-demko/furry_game#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
